@@ -2,7 +2,7 @@
 layout: post
 title: La France en finale
 subtitle: ALLEZ LES BLEUS
-cover-img: /assets/img/Capture d’écran 2022-03-14 205139.png
+cover-img: /assets/img/france-maroc-coupe-du-monde-2022-ce-qu-il-faut-savoir-sur-le-match.jpg
 thumbnail-img: /assets/img/eee8a412fbd6033282f65d642fd75d76386d47e1.jpg
 share-img: /assets/img/eee8a412fbd6033282f65d642fd75d76386d47e1.jpg
 
