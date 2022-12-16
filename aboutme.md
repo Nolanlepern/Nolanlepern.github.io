@@ -6,9 +6,9 @@ subtitle: Voici comment bien présenter ma page
 
 Je suis Nolan Le Pern, étudiant en troisème année de DNMADE parcours numérique
 
-### Voici une illustration de mon travail 
+### Voici Sid de l'âge de glace 
 
 J'aime les graphismes épurés et je suis fan de charadesign et d'illustration fantastique et post-apocalyptique
 
-![carte kerveur](/assets/img/carte_kerveur.png)
+![SID](/assets/img/Capture d’écran 2022-03-07 202613.png)
 
